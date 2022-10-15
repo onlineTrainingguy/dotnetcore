@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/devopsbatchorg/Proj1/_apis/build/status/onlineTrainingguy.dotnetcore?branchName=main)](https://dev.azure.com/devopsbatchorg/Proj1/_build/latest?definitionId=1&branchName=main)
